@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Product;
-
+// oke
 class TableStockController extends Controller
 {
     public function showTable()
